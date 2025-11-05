@@ -1,0 +1,34 @@
+RID: GRN5B9UA114	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Subject:None ID: lcl|Query_8121549(nucleic acid) Length: 22
+Query #1:  Query ID: lcl|Query_8121547 Length: 22
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+None provided                                                                                     0          36.2   36.2  100%  4e-09 95.45  22         Query_8121549    
+
+
+Alignments:
+
+>
+Sequence ID: Query_8121549 Length: 22
+Range 1: 1 to 22
+
+Score:36.2 bits(18), Expect:4e-09, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1   ATGGTGCTGAAAGGAGAGGCTG  22
+           ||||||||||||||||| ||||
+Sbjct  1   ATGGTGCTGAAAGGAGAAGCTG  22
+
+
+
+
+
+
+
+		
+
+
