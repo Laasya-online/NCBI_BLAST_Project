@@ -1,0 +1,13 @@
+Title: NCBI BLAST DNA Alignment Mini Project
+Tool Used: NCBI BLAST (Web)
+
+Objective:
+To compare two short DNA sequences and find their similarity using BLASTN.
+
+Observation:
+The BLAST output shows 21 out of 22 bases matched (95% identity).
+E-value = 4e-09 indicates a highly significant alignment.
+This means the two DNA sequences are almost identical with one base difference.
+
+Conclusion:
+The sequences are very similar, suggesting a point mutation or single nucleotide variation.
